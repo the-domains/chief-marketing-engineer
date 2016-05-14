@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chief Marketing Engineer]]></title>
         <description><![CDATA[Chief Marketing Engineer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chief-marketing-engineer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 19:09:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 02:14:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chief-marketing-engineer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Book Review: Made To Stick]]></title>
+            <description><![CDATA[<article><h1>Book Review: Made To Stick</h1><p>Chip Heath & Dan Heath. (2007).Made to Stick. Random House.  </p></article>]]></description>
+            <link>https://thegrid.ai/chief-marketing-engineer/book-review-made-to-stick/index.html</link>
+            <guid isPermaLink="false">16b07042-846c-4955-bb7b-cc16054ed027</guid>
+            <pubDate>Sat, 14 May 2016 02:14:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grandpa Still Takes His Phone Out Of His Pocket]]></title>
-            <description><![CDATA[<article><h1>Grandpa Still Takes His Phone Out Of His Pocket</h1><p></p></article>]]></description>
-            <link>undefinedgrandpa-still-takes-his-phone-out-of-his-pocket/index.html</link>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/chief-marketing-engineer/grandpa-still-takes-his-phone-out-of-his-pocket/index.html</link>
             <guid isPermaLink="false">74c8d7ad-f8fb-4952-9aa6-098b550d7755</guid>
             <pubDate>Thu, 10 Mar 2016 19:09:22 GMT</pubDate>
         </item>
