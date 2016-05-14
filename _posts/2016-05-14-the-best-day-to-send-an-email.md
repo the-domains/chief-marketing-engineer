@@ -1,0 +1,32 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: "Browsing the message boards the other day I saw someone posted the question: \"what's the best day to send an email campaign?\". Immediately, the fundamental flaw with this question jumped out at me, i.e. it does not take into account the individuality of the customers you are marketing to. In fact, such a broad question doesn't even take into account the preferences of the segment or, for all I know, the preferences of any single country. Marketing 2.0 is about knowing your customers and cultivating relationships. It's about catering to their needs as individuals, not as segments, and certainly not as \"the best day to send an email\".  Several people replied to the question with valid statistics on opens (Friday), click-throughs (Sunday -- but with poor opens), and overall performance (mid-week). Based on the variety of these replies I imagine the poster is no better off now than before. Basically the answers didn't say anything. This is because the best day to contact your customers is the best day for your customers asindividuals. New media marketing is about cultivating the relationship with each of your customers. Given this, why stop at the best day to send an email? What about the best time? How about breaking away from emails and utilizing the best method of contact?  As an individual, I have a schedule and so do you. If, for instance, I wanted to get in touch with you right now the best way might be to post to this blog since that is was you are reading. You could, however, be reading this on either a mobile device or a computer. You may be at work, you may be at home, you may be on a train between the two, or you could be someplace completely different. You may have twitter pinging you with an SMS, or you may follow my RSS. You could have found a link on a message board, or you may have linked to this blog in an email from a friend, or maybe this post is syndicated. An hour from now the best way to contact you may be completely different than it is right now. Today may be the best day for you to receive an email, but is an email really the best way to contact you today? Right now?  The point is think about how you got here. Now think about all the ways that everyone else may have gotten here. Now ask yourself, is there really abestway to get here or only different ways? Some of the more literal types might say \"yes, there is a 'best' way\", so I ask you, how good is it really? This isThe Long Tailof communicating with your customers where the sum total return of the best way is no where close to the sum total return of all the other ways. As a marketer, why would you give all that up in pursuit of \"the best day\"?  This is a new age of marketing where we are not restricted to \"the best day\". This is Marketing 2.0 where we think in terms of the best hour of the best day using the best method to cultivate the relationship with you as an individual."
+datePublished: '2016-05-14T02:18:03.228Z'
+dateModified: '2016-05-14T02:18:02.762Z'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+title: The Best Day to Send an Email
+author: []
+starred: false
+sourcePath: _posts/2016-05-14-the-best-day-to-send-an-email.md
+url: the-best-day-to-send-an-email/index.html
+_type: Article
+
+---
+# The Best Day to Send an Email
+
+Browsing the message boards the other day I saw someone posted the question: "what's the best day to send an email campaign?". Immediately, the fundamental flaw with this question jumped out at me, i.e. it does not take into account the individuality of the customers you are marketing to. In fact, such a broad question doesn't even take into account the preferences of the segment or, for all I know, the preferences of any single country. Marketing 2.0 is about knowing your customers and cultivating relationships. It's about catering to their needs as individuals, not as segments, and certainly not as "the best day to send an email".  
+Several people replied to the question with valid statistics on opens (Friday), click-throughs (Sunday -- but with poor opens), and overall performance (mid-week). Based on the variety of these replies I imagine the poster is no better off now than before. Basically the answers didn't say anything. This is because the best day to contact your customers is the best day for your customers as_individuals_. New media marketing is about cultivating the relationship with each of your customers. Given this, why stop at the best day to send an email? What about the best time? How about breaking away from emails and utilizing the best method of contact?  
+As an individual, I have a schedule and so do you. If, for instance, I wanted to get in touch with you right now the best way might be to post to this blog since that is was you are reading. You could, however, be reading this on either a mobile device or a computer. You may be at work, you may be at home, you may be on a train between the two, or you could be someplace completely different. You may have twitter pinging you with an SMS, or you may follow my RSS. You could have found a link on a message board, or you may have linked to this blog in an email from a friend, or maybe this post is syndicated. An hour from now the best way to contact you may be completely different than it is right now. Today may be the best day for you to receive an email, but is an email really the best way to contact you today? Right now?  
+The point is think about how you got here. Now think about all the ways that everyone else may have gotten here. Now ask yourself, is there really a_best_way to get here or only different ways? Some of the more literal types might say "yes, there is a 'best' way", so I ask you, how good is it really? This is[The Long Tail][0]of communicating with your customers where the sum total return of the best way is no where close to the sum total return of all the other ways. As a marketer, why would you give all that up in pursuit of "the best day"?  
+This is a new age of marketing where we are not restricted to "the best day". This is Marketing 2.0 where we think in terms of the best hour of the best day using the best method to cultivate the relationship with you as an individual.
+
+[0]: http://en.wikipedia.org/wiki/The_Long_Tail "The Long Tail"
