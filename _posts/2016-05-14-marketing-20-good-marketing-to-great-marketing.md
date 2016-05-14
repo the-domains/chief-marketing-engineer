@@ -1,0 +1,34 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: "There are a lot of good marketers out there. They are good because they consistently deliver good ROI by building good campaigns that deliver good results. Marketing 2.0 isn't about being good. It's about being great. Good, as defined byJim Collins, is the enemy of great, which is why there are a lot of good marketers and many fewer great ones. Collins's bookGood to Greatdescribes many concepts in management that relate directly to Marketing 2.0. Here's just a few to whet your appetite. You'll have to read his book for the rest :-)  The Hedgehog Concept: A core idea that: drives your economic engine, you can be the best in the world at, and you are deeply passionate about. If you cannot honestly say you meet all three of these criteria, how can you expect your customers to choose you over your competitor who can? Marketing 2.0 is about bringing value to your customers by embracing the democratization of value, i.e. customers decide what is value (benefit / price) and migrate toward where the most value is. We see this over and over again with concepts like the long tail and the wisdom of crowds.  Confront the brutal facts. Listen to your customers, listen to the market, and evaluate your results. Confronting the brutal facts is not giving in, it's being realistic about what you have to offer your customers. Be open to kudos, be open to criticism, and be open to change. This becomes an extremely important concept when you ask yourself what you are really offering your customers and how much you are asking from them.  The Flywheel, where a small but consistent effort builds the momentum of your overall concept. Through new media marketing, a small be dedicated group is worth much more over a lifetime than a much larger motley group. New media and social networking is about working in conjunction with your customers to push that flywheel just a little faster. Momentum builds the force of your brand eventually leading it to take on a life of it's own. Malcolm Gladwell's bookThe Tipping Pointis full of examples of this.  Technology as an accelerator, not a creator, of momentum. Given the potential for technology use that new media allows, this chapter is especially applicable. Seth Godin, in his bookMeatball Sundae, talks about syncing up your marketing to your business. Remember the old adage, \"when all you have is a hammer everything looks like a nail\"? Marketing 2.0 takes the opposite approach. Marketing 2.0 has a full tool box. It draws upon all marketing media to decide what is the best way to communicate with your customers as individuals. It is not about putting up a website. It's not about starting a blog. It's not about opening a twitter or facebook account. Any one of these things can be great if they align right with your industry, your business, and your customer. I can guarantee, however, you'll never reach my grandparents with any of them. "
+datePublished: '2016-05-14T02:21:54.594Z'
+dateModified: '2016-05-14T02:21:54.430Z'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+title: 'Marketing 2.0: Good Marketing to Great Marketing'
+author: []
+starred: false
+sourcePath: _posts/2016-05-14-marketing-20-good-marketing-to-great-marketing.md
+url: marketing-20-good-marketing-to-great-marketing/index.html
+_type: Article
+
+---
+# Marketing 2.0: Good Marketing to Great Marketing
+
+There are a lot of good marketers out there. They are good because they consistently deliver good ROI by building good campaigns that deliver good results. Marketing 2.0 isn't about being good. It's about being great. Good, as defined by[Jim Collins][0], is the enemy of great, which is why there are a lot of good marketers and many fewer great ones. Collins's book_Good to Great_describes many concepts in management that relate directly to Marketing 2.0\. Here's just a few to whet your appetite. You'll have to read his book for the rest :-)  
+_The Hedgehog Concept_: A core idea that: drives your economic engine, you can be the best in the world at, and you are deeply passionate about. If you cannot honestly say you meet all three of these criteria, how can you expect your customers to choose you over your competitor who can? Marketing 2.0 is about bringing value to your customers by embracing the democratization of value, i.e. customers decide what is value (benefit / price) and migrate toward where the most value is. We see this over and over again with concepts like the long tail and the wisdom of crowds.  
+_Confront the brutal facts_. Listen to your customers, listen to the market, and evaluate your results. Confronting the brutal facts is not giving in, it's being realistic about what you have to offer your customers. Be open to kudos, be open to criticism, and be open to change. This becomes an extremely important concept when you ask yourself what you are really offering your customers and how much you are asking from them.  
+_The Flywheel_, where a small but consistent effort builds the momentum of your overall concept. Through new media marketing, a small be dedicated group is worth much more over a lifetime than a much larger motley group. New media and social networking is about working in conjunction with your customers to push that flywheel just a little faster. Momentum builds the force of your brand eventually leading it to take on a life of it's own. Malcolm Gladwell's book[_The Tipping Point_][1]is full of examples of this.  
+_Technology as an accelerator, not a creator, of momentum_. Given the potential for technology use that new media allows, this chapter is especially applicable. Seth Godin, in his book[_Meatball Sundae_][2], talks about syncing up your marketing to your business. Remember the old adage, "when all you have is a hammer everything looks like a nail"? Marketing 2.0 takes the opposite approach. Marketing 2.0 has a full tool box. It draws upon all marketing media to decide what is the best way to communicate with your customers as individuals. It is not about putting up a website. It's not about starting a blog. It's not about opening a twitter or facebook account. Any one of these things can be great if they align right with your industry, your business, and your customer. I can guarantee, however, you'll never reach my grandparents with any of them.
+
+[0]: http://www.JimCollins.com/ "Jim Collins"
+[1]: http://www.gladwell.com/tippingpoint/index.html "Malcolm Gladwell -- The Tipping Point"
+[2]: http://www.squidoo.com/meatballsundae "Seth Godin: Meatball Sundae"
